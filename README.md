@@ -24,8 +24,8 @@ Display the output
 
 
 #Program for copying the contents from one file to another file.
-#Developed by AMALJOSH MAADHAV J
-#Reg num : 212223230012
+#Developed by : MUKESH.B
+#Reg num : 212223230128
 
 
 with open("file.txt","r") as f1:
